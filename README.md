@@ -18,3 +18,11 @@ Below is a list of what I have learned:
 * Geometry Brushes BSP
 * Materials and Lighting
 * Collision Meshes
+
+  ## Result video: 
+https://github.com/CreatNatoy/WarehouseWreckage-UE5/assets/76531899/4db54cbc-bcb6-4142-9021-4af07efbe1e3
+
+## Screenshot blueprint
+![image](https://github.com/CreatNatoy/WarehouseWreckage-UE5/assets/76531899/4629449f-d64d-42c2-8b9b-207b63c0749d)
+![image](https://github.com/CreatNatoy/WarehouseWreckage-UE5/assets/76531899/e33e76bd-a807-45a7-aabe-4b8be703c1a8)
+
